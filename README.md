@@ -1,0 +1,2 @@
+# beanValidationExercise
+Bean Validation Exercise
